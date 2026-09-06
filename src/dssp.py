@@ -141,7 +141,6 @@ for i in residus:
 
 # Ladders parallèle
 
-
 ladders_paralleles = []
 
 for i, j in bridge_paralleles:
